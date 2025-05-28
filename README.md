@@ -16,14 +16,6 @@ A web app that analyzes screenshots or live previews of UI designs and provides 
 
 ---
 
-## 📸 Demo
-
-![App Screenshot](./screenshot.png) <!-- Replace with your actual image or a GIF -->
-
-> Try it live: [your-live-link.com](https://your-live-link.com)
-
----
-
 ## 🚀 Tech Stack
 
 - **Frontend:** React + TypeScript + TailwindCSS
@@ -39,5 +31,5 @@ A web app that analyzes screenshots or live previews of UI designs and provides 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/ui-feedback-tool.git
+git clone https://github.com/Nazeem-c/ui-feedback-tool.git
 cd ui-feedback-tool
